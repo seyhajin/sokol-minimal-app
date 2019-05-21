@@ -15,7 +15,9 @@ A minimal boilerplate to create **'sokol'** application.
 More informations :
 
 Github : https://github.com/floooh/sokol
+
 Samples : https://github.com/floooh/sokol-samples
+
 Live samples via WASM : https://floooh.github.io/sokol-html5/index.html
 
 ## Prerequisites
