@@ -1,4 +1,4 @@
-# sokol-boilerplate-app
+# sokol-minimal-app
 
 A minimal boilerplate to create **'sokol'** application.
 
